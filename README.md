@@ -33,5 +33,5 @@ Explore advanced Python libraries for Data Science.
 📫 Let's Connect!
 
 📧 Email: usmaanhassan@outlook.com
-🌐 Portfolio: usmanhassan.vercel.app
+🌐 Portfolio: [usmanhassan.vercel.app](usmanhassan.vercel.app)
 🔗 GitHub: github.com/UsmanXTech
