@@ -18,9 +18,9 @@
 
 ## 💻 About Me
 
-🎓 *Usman Hassan, a student at **Punjab University, exploring the fascinating world of **Data Science*.  
-💡 Passionate about *coding, **problem-solving, and **learning modern technologies* to build impactful projects.  
-🔥 Currently improving my skills in Python and C++ while diving deeper into data-driven development.
+**Punjab University**, exploring the fascinating world of **Data Science**.  
+💡 Passionate about **coding**, **problem-solving**, and **learning modern technologies** to build impactful projects.  
+🔥 Currently improving my skills in **Python** and **C++** while diving deeper into data-driven development.
 
 ---
 
