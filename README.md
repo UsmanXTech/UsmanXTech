@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Banner](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
 
 # 👋 Hi, I'm Usman Hassan
 
